@@ -20,4 +20,5 @@ run it `sasview`
 ### notes
 the Dockerfile has comments
 
+
 if instead of ubuntu:22.04, you could try a GPU base image suitable for your GPU (e.g. those from [NVidia](https://hub.docker.com/u/nvidia)https://hub.docker.com/u/nvidia) and enable the openCL lines in the Dockerfile
